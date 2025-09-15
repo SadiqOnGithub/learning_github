@@ -1,0 +1,16 @@
+node_modules/
+package-lock.json
+
+# Build output
+/dist
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# MongoDB database files
+*.mongodb
+
+# OS generated files
+*.swp
+*.swo
