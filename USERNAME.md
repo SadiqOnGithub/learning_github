@@ -1,1 +1,3 @@
-# this is for project 2 to create a merge conflict...
+and it created conflict while merging main into feature branch
+this will definetly create some conflict!
+let's try this with a end line
